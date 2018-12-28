@@ -1,0 +1,65 @@
+{
+    "basic": {
+      "name": "Your Name",
+      "title": "",
+      "address1": "Street Streenumber/Housenumber",
+      "address2": "ZIP City",
+      "telephone": "0123456789",
+      "email": "email@email.com",
+      "birthdate": "01.01.1900",
+      "birthplace": "Birthplace"
+    },
+    "sections" : [
+        {
+            "title" : "WorkingExperience",
+            "subSections" : [
+                {
+                    "period": "01/1900 - 12/1999",
+                    "title": "Your title",
+                    "company": "Companyname",
+                    "location": "Company location",
+                    "description": [
+                        "Description"
+                    ]
+                }
+            ]
+        },
+        {
+            "title" : "Education",
+            "subSections" : [
+                {
+                    "period": "01/1900 - 12/1999",
+                    "title": "Education name",
+                    "company": "Education facility",
+                    "location": "Education facility location",
+                    "description": [
+                        "Description"
+                    ]
+                }
+            ]
+        },
+        {
+            "title" : "Skills",
+            "subSections" : [
+                {
+                    "title": "Skills Category",
+                    "description": [
+                        "Description"
+                    ]
+                }
+            ]
+        },
+        {
+            "title" : "PersonalInterests",
+            "subSections" : [
+                {
+                    "title": "Interest Category",
+                    "description": [
+                        "Description"
+                    ]
+                }
+            ]
+        }
+    ]
+  }
+  
